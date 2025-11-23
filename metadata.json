@@ -1,0 +1,7 @@
+{
+  "description": "Smart Invoicing & Quotation System",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "App"
+}
